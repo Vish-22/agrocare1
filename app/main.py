@@ -4,7 +4,9 @@ from prediction import predict_crop
 
 app = Flask(__name__)
 
-
+@app.route("/")
+def get():
+    return "Welcome to Agro-Care"
 @app.route("/predictCrop", methods=["POST", "GET"])
 def check():
     if request.method == "POST":
