@@ -1,0 +1,8 @@
+Arhar/Tur,The pigeon pea also known as arhar tur red gram or gungo peas in Jamaica is a perennial legume from the family Fabaceae,6.5 to 7.5,images/arhar.png
+Bajra,Pearl millet is the most widely grown type of millet.It has been grown in Africa and the Indian subcontinent since prehistoric times,7.0-7.5,images/bajra.png
+Castor seed,Ricinus communis the castor bean or castor oil plant is a species of perennial flowering plant in the spurge family Euphorbiaceae. It is the sole species in the monotypic genus Ricinus and subtribe Ricininae,5 to 8.5,images/castor.png 
+Cotton(lint),Cotton is a soft fluffy staple fiber that grows in a boll or protective case around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae,5.8 to 8.0,images/cotton.png
+Groundnut,Groundnut is important oilseed crop and oil content of the seed varies from 44-50% depending on the varieties and agronomic conditions,5.62–6.69,images/groundnut.png
+Horse-gram,Horse gram is an important crop of South India.Its grain is used for human consumption as 'dal ' as well as in preparation of so called 'rasam',6.0–7.5,images/horsegram.png
+Jowar,Jowar​ Sorghum popularly known as jowar is the most important food and fodder crop of dry land agriculture,6.5–8.5,images/jowar.png
+Maize,Maize also known as corn is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10000 years ago,5.8–6.2,images/maize.png

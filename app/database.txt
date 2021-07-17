@@ -1,0 +1,60 @@
+Crop,desc,ph,image_url
+Arhar/Tur,The pigeon pea also known as arhar tur red gram or gungo peas in Jamaica is a perennial legume from the family Fabaceae,6.5 to 7.5,images/arhar.png
+Bajra,Pearl millet is the most widely grown type of millet.It has been grown in Africa and the Indian subcontinent since prehistoric times,7.0-7.5,images/bajra.png
+Castor seed,Ricinus communis the castor bean or castor oil plant is a species of perennial flowering plant in the spurge family Euphorbiaceae. It is the sole species in the monotypic genus Ricinus and subtribe Ricininae,5 to 8.5,images/castor.png 
+Cotton(lint),Cotton is a soft fluffy staple fiber that grows in a boll or protective case around the seeds of the cotton plants of the genus Gossypium in the mallow family Malvaceae,5.8 to 8.0,images/cotton.png
+Groundnut,Groundnut is important oilseed crop and oil content of the seed varies from 44-50% depending on the varieties and agronomic conditions,5.62–6.69,images/groundnut.png
+Horse-gram,Horse gram is an important crop of South India.Its grain is used for human consumption as 'dal ' as well as in preparation of so called 'rasam',6.0–7.5,images/horsegram.png
+Jowar,Jowar​ Sorghum popularly known as jowar is the most important food and fodder crop of dry land agriculture,6.5–8.5,images/jowar.png
+Maize,Maize also known as corn is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10000 years ago,5.8–6.2,images/maize.png
+Moong(Green Gram),Green gram also known as moong is one of the main pulse crop of India. It is a rich source of Protein along with fibre and iron.It can be cultivated as Kharif as well as summer crop,6.2–7.2,images/moong.png
+Niger seed,Niger is a minor oilseed crop that is grown predominantly under rainfed conditions.Niger seed is used as a human food,5.2–7.3,images/niger.png
+Onion,The onion also known as the bulb onion or common onion is a vegetable that is the most widely cultivated species of the genus Allium,6.0–7.0,images/onion.png
+Rapeseed & Mustard,Rapeseed also known as rape or oilseed rape is a bright-yellow flowering member of the family Brassicaceae cultivated mainly for its oil-rich seed which naturally contains appreciable amounts of erucic acid,5.5–8.3,images/rapseed.png
+Rice,Rice edible starchy cereal grain and the grass plant (family Poaceae) by which it is produced roughly one-half of the world population including virtually all of East and Southeast Asia,5.5–7.0,images/rice.png
+Sesamum,Sesame is one of the oldest oilseed crops and an important oil yielding crop with oil content of 40 to 50 % and popularly known as 'Til' or 'Gingelly'.In India the sesame crop can be cultivated as Kharif summer and also as semi-rabi crop,5.5–8.0,images/sesamum.png
+Soyabean,The soybean soy bean or soya bean is a species of legume native to East Asia widely grown for its edible bean which has numerous uses,6.0-7.0,images/soyabean.png
+Sunflower,The sunflower crop matures in 90-100 days.The crop has to be harvested when the lower side of the head turns yellow and some of the bracts dry up,6.5–7.0,images/sunflower.png
+Gram,Gram commonly known as chick pea or Bengal gram is the most important pulse crop of India.It is used for human consumption as well as for feeding to animals,6.0–9.0,images/gram.png
+Linseed,Linseed is a cool season crop and requires moderate to cool temperature.It is grown best in well drained fertile medium and heavy soils especially silty loam clay loam and silty clays,6.0–6.5,images/linseed.png
+Safflower,Safflower (Carthamus tinctorius) is a broadleaf annual oilseed crop primarily adapted to grow in the western Great Plains,5.0–8.0,images/safflower.png
+Wheat,Wheat is one of the oldest and most important of the cereal crops Of the thousands of varieties known the most important are common wheat (Triticum aestivum) used to make bread,6.0–7.0,images/wheat.png
+Arecanut,The arecanut palm is the source of common chewing nut popularly known as betel nut or Supari.India is the largest producer of arecanut and at the same time largest consumer also,5.2–7.0,images/arecanut.png
+Coconut,The coconut palm is referred to as 'Kalpavriksha' - the 'tree of heaven' as each and every part of the palm is useful to mankind in one way or other,5.2–8.6,images/coconut.png
+Coriander,Coriander (Coriandrum sativum L.) is an annual herb mainly cultivated for its fruits as well as for the tender green leaves.It is native of the Mediterranean region,6.0–8.0,images/coriander.png
+Dry chillies,Chilli is one of the most valuable crops of India.The crop is grown largely for its fruits all over the India.It is used in India as a principle ingredient of various curries and chutneys,6.0–6.5,images/drychillies.png
+Garlic,Garlic (Allium sativum) is a species of bulbous flowering plant in the onion genus Allium,6.0–7.0,images/garlic.png
+Turmeric,Turmeric (Curcuma longa L) the ancient and sacred spice of India known as 'Indian saffron' is an important commercial spice crop grown in India,4.5–7.5,images/turmeric.png
+Mesta,Mesta is herbaceous annual plant.It is an important commercial crop after cotton and Jute.Its origin lies in Afro-Asian countries,4.5–7.8,images/mesta.png
+Other Kharif pulses,Major Kharif Pulses include Arhar (pigeonpea/redgram) Urdbean (Blackgram) Mungbean (Greengram) Moth Horsegram (kulthi).Tur/arhar has a lion share of area (36%) and production (48%) followed by Urdbean and Mungbean,6.5–7.8,images/otherkharifpulses.png
+Small millets,A number of different small-grained cereal grasses are collectively described as 'Millets'.Millets are one of the oldest cultivated foods known to humans,4.5–8.0,images/smallmillets.png
+Other Rabi pulses,Rabi Summer season pulse crops are gram (chickpea/bengalgram) lentil (masur) Field pea (matar/batri) Urd Mung Rajmash etc.Gram crop has a major share under area sown (65%) and production (72%) followed by lentil and field pea,6.5–7.8,images/otherrabipulses.png
+Banana,A banana plantation is a commercial agricultural facility found in tropical climates where bananas are grown,5.5–6.5,images/banana.png
+Sugarcane,Sugarcane or sugar cane refers to several species and hybrids of tall perennial grass in the genus Saccharum tribe Andropogoneae that are used for sugar production,6.5–7.5,images/sugarcane.png
+Sweet potato,The sweet potato or sweetpotato is a dicotyledonous plant that belongs to the bindweed or morning glory family Convolvulaceae,6.0–6.5,images/sweetpotato.png
+Sannhamp,Crotalaria juncea known as brown hemp Indian hemp Madras hemp or sunn hemp is a tropical Asian plant of the legume family.It is generally considered to have originated in India,5.0–8.4,images/sannhamp.png
+Arcanut (Processed),The arecanut palm is the source of common chewing nut popularly known as betel nut or Supari,5.2–7.0,images/arcanutprocessed.png
+Arcanut (Raw),The arecanut palm is the source of common chewing nut popularly known as betel nut or Supari,5.2–7.0,images/arcanutraw.pn
+Brinjal,Brinjal or Eggplant is an important crop of sub tropics and tropics.The name brinjal is popular in Indian subcontinents,5.5–6.6,images/brinjal.png
+Citrus Fruit,The major citrus fruits grown in Punjab are mandarin sweet orange grapefruit lime and lemon.Mandarins are of major economic significance followed by oranges.Grapefruits limes and lemons are of minor importance,6.0–7.0,images/citrusfruit.png
+Grapes,A grape is a fruit botanically a berry of the deciduous woody vines of the flowering plant genus Vitis,5.5–6.5,images/grapes.png
+Mango,Mango (Mangifera indica L) belonging to Family Anacardiaceae is the most important commercially grown fruit crop of the country.It is called the king of fruits.India has the richest collection of mango cultivars,5.5–7.5,images/mango.png
+Other Fresh Fruits,The major varieties under Other Fresh Fruit products are as follows:Mangoes Grapes Apple Lal Ambri Banana Guava Papaya Sapopta Lichi,5.4–6.2,images/otherfreshfruits.png
+Papaya,Papaya (Carica papaya) is a tropical fruit having commercial importance because of its high nutritive and medicinal value,5.5–6.5,images/papaya.png
+Pome Fruit,The best-known example of a pome is the apple.Other examples of plants that produce fruit classified as a pome are Cotoneaster Crataegus medlar pear Pyracantha quince rowan loquat toyon and whitebeam,6.0–6.5,images/pomefruit.png
+Tomato,The tomato is the edible berry of the plant Solanum lycopersicum commonly known as a tomato plant,5.5-7.5,images/tomato.png
+Urad,Black gram (Vigna Mungo L) is popularly known as “Urad” is one of the most important pulses crop grown across India,6.5–7.8,images/urad.png
+Cashewnut,The true fruit of the cashew tree is a kidney– or boxing-glove–shaped drupe that grows at the end of the cashew apple,5.5–7.5,images/cashewnut.png
+Tobacco,By far the most common tobacco in use today is the species Nicotiana tabacum (Solanaceae) with occasional local usage of Nicotiana rustica Nicotiana glauca and Nicotiana nepalensis.The Nicotiana genus has approximately 75 species and polyploidy is common,5.8–6.2,images/tobacco.png
+Cowpea(Lobia),The cowpea is an annual herbaceous legume from the genus Vigna.Due to its tolerance for sandy soil and low rainfall it is an important crop in the semiarid regions across Africa and Asia,5.6–6.0,images/cowpea.png
+Black pepper,Black pepper is a flowering vine in the family Piperaceae cultivated for its fruit known as a peppercorn which is usually dried and used as a spice6,5.5–6.5,images/blackpepper.png
+Dry ginger,Ginger is a flowering plant whose rhizome ginger root or ginger is widely used as a spice and a folk medicine,6.0–6.5,images/dryginger.png
+Paddy,Paddy also called rice paddy small level flooded field used to cultivate rice in southern and eastern Asia,5.5–7.0,images/paddy.png
+Peas & beans (Pulses),Peas are generally round while beans have a wider variety of shapes.Color also varies considerably with non-pea beans,6.0–6.5,images/peasandbeans.png
+Potato,Potato (Solanum tuberosum) is the most important food crop of the world.Potato is a temperate crop grown under subtropical conditions in India,5.3–6.0,images/potato.png
+Ragi,Eleusine coracana or finger millet also known as ragi in India kodo in Nepal is an annual herbaceous plant widely grown as a cereal crop in the arid and semiarid areas in Africa and Asia,4.5–7.5,images/ragi.png
+Tapioca,Tapioca (Manihot esculenta) is a Euphorbiaceous woody shrub native to South America cultivated extensively as an annual crop in tropical region for its edible starchy tuberous roots,5.5–7.0,images/tapioca.png
+Beans & Mutter(Vegetable),The Fabaceae or Leguminosae (commonly known as the legume pea or bean) family is the third largest family of flowering plants consisting of over 20000 species,5.5–7.0,images/beansandmutter.png
+Cashewnut Processed,The true fruit of the cashew tree is a kidney– or boxing-glove–shaped drupe that grows at the end of the cashew apple,5.5–7.5,images/cashewnutprocessed.png
+Cashewnut Raw,The true fruit of the cashew tree is a kidney– or boxing-glove–shaped drupe that grows at the end of the cashew apple,5.5–7.5,images/cashewnutraw.png
+Cardamom,Cardamom ( Elettaria cardamomum L) popularly known as Queen of Spices is native to the evergreen rainy forests of Western Ghats in South India,5.5–6.5,images/cardamom.png
