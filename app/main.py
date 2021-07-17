@@ -20,5 +20,5 @@ def check():
         return predict_crop(district, min_temp, max_temp, season)
 
 
-if __name__ == "__main__":
-    app.run()
+#if __name__ == "__main__":
+#    app.run()
